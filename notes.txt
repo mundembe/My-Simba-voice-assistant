@@ -1,0 +1,10 @@
+Dependacies:
+    SpeechRecognition
+    pyttsx3
+    PyAudio 
+        *If error occurs with pip install PyAudio,
+        then install pipwin(pip install pipwin) and use pipwin install PyAudio
+    pywhatkit - libray for whatsApp and YouTube automation
+
+When checking if a word is in the voice input, 
+    CONVERT THE VOICE INPUT INTO all lowercase
